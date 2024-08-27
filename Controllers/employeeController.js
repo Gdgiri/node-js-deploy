@@ -122,3 +122,5 @@ export const deleteEmployee = async (req, res) => {
       .json({ message: "Internal server error in delete employee" });
   }
 };
+
+
